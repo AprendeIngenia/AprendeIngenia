@@ -19,7 +19,7 @@ Cuento con un [canal de YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfE
 - 🔹 Programacion en Microcontroladores.
 - 🔹 Diseño asistido por computador en 3D.
 
-### 🔸 Actualmente:
+### 🔸 Trabajo:
 - 🔹 Actualmente hago parte de un grupo de investigacion y desarrollo enfocado en (ROS), Vehículo Aéreo No Tripulado (UAV), Aprendizaje Automático, Ciberseguridad, Visión Computarizada
 
 ### 🔸 Contactame:
