@@ -1,7 +1,7 @@
 ### HOLA 👋
 ### Mi nombre es Santiago Sanchez, y soy Ingeniero Mecatronico 💻.
 
-Cuento con un [canal de YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ) donde subo proyectos de robotica 🦾 vision artificial e inteligencia artificial 🧠.
+Cuento con un [canal de YouTube](https://www.youtube.com/aprendeeingenia) donde subo proyectos de robotica 🦾 vision artificial e inteligencia artificial 🧠.
 
 ![VISION E INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/85022752/160804979-92ae839c-de73-4618-9b5a-05445f50b691.png)
 
@@ -23,7 +23,7 @@ Cuento con un [canal de YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfE
 - 🔹 Actualmente hago parte de un grupo de investigacion y desarrollo enfocado en (ROS), Vehículo Aéreo No Tripulado (UAV), Aprendizaje Automático, Ciberseguridad, Visión Computarizada
 
 ### 🔸 Contactame:
-- 🔹 [YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/featured).
+- 🔹 [YouTube](https://www.youtube.com/aprendeeingenia).
 - 🔹 [Instagram](https://www.instagram.com/santiagsanchezr/).
 - 🔹 [Twitter](https://twitter.com/SantiagSanchezR).
 - 🔹 [Facebook](https://www.facebook.com/Aprende.Ingenia).
